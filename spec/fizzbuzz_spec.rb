@@ -1,4 +1,4 @@
-#Pair programming partner Sam Jone
+#Pair programming partner Sam Jones
 require 'fizzbuzz'
 
 describe 'fizzbuzz' do
