@@ -5,7 +5,7 @@ def fizzbuzz(num)
     'fizz'
   elsif num % 5 == 0
     'buzz'
-else
-  num
- end
+  else
+    num
+  end
 end
