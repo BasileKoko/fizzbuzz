@@ -3,7 +3,7 @@ This project objective is to teach us two very important concepts of
 software development while working on the fizzbuzz challenge:   
 - Collaboration (Pair Programming)  
 - Testing (TDD)  
-I have enjoyed pairing with Sam Jones.  
-We agreed that these concepts are very important as we were able to work
-on the challenge very efficiently.  
- We noticed that while collaborating we are able to spot and to correct issues faster.
+I worked with  with Sam Jones and Justin Butwell.  
+We agreed that even though, TDD value cannot be appreciated fully with fairly short code like the one we wrote, we are aware that the concept behind it is very sound.
+ The real value of it will show clearly when we work on more difficult exercises and  projects.   
+Nevertheless, we did notice that when working in pair, we are able to spot and correct issues more efficiently.
